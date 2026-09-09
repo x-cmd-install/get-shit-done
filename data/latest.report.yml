@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.43.0-rc2"
   latestRelease: "v1.42.3"
   latestPrerelease: "v1.43.0-rc2"
-  collectedAt: 2026-09-09T04:56:53Z
+  collectedAt: 2026-09-09T18:56:01Z
 timeline:
   created: 2025-12-14
   lastCommit: 2026-05-31
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-05-16
   lastPrerelease: 2026-05-17
 popularity:
-  star: 64574
+  star: 64567
   watcher: 277
-  fork: 5456
+  fork: 5454
   release: 78
   contributor: 144
   pullRequest: 1870
@@ -85,7 +85,7 @@ total:
   commit: 2928
 ---
 path: /home/runner/.x-repo/github.com/gsd-build/get-shit-done
-collectedAt: 2026-09-09T04:56:57Z
+collectedAt: 2026-09-09T18:56:04Z
 loc:
   JavaScript:
     code: 137759
