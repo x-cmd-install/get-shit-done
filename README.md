@@ -23,11 +23,10 @@ x install get-shit-done
 
 - **Latest**: `v1.43.0-rc2` (2026-05-16)
 - **Last commit**: 2026-05-31
-- **Published**: 2026-05-16T04:36:09Z
 
 ## Popularity
 
-- **Stars**: 64,566 · **Forks**: 5,453 · **Open issues**: 1,890 · **Contributors**: 144
+- **Stars**: 64,564 · **Forks**: 5,453 · **Open issues**: 1,890 · **Contributors**: 144
 
 ## Totals (cumulative)
 
@@ -58,8 +57,8 @@ Total: **199,491** lines of code across **1027** files in the top 5 languages.
 Install metadata for get-shit-done lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `get-shit-done` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/get-shit-done.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/get-shit-done.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:54:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:30Z._

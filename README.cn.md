@@ -6,7 +6,7 @@
 
 A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
-![get-shit-done](https://repo.x-cmd.io/get-shit-done.svg)
+![get-shit-done](https://repo.x-cmd.io/get-shit-done.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,10 @@ x install get-shit-done
 
 - **最新版本**: `v1.43.0-rc2` (2026-05-16)
 - **最近提交**: 2026-05-31
-- **发布时间**: 2026-05-16T04:36:09Z
 
 ## 流行度
 
-- **Star**: 64,566 · **Fork**: 5,453 · **开放 issue**: 1,890 · **贡献者**: 144
+- **Star**: 64,564 · **Fork**: 5,453 · **开放 issue**: 1,890 · **贡献者**: 144
 
 ## 累计统计
 
@@ -62,4 +61,4 @@ get-shit-done 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:30Z._
