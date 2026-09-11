@@ -38,7 +38,7 @@ Total: **199,491** lines of code across **1027** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 64,561 · **Forks**: 5,453 · **Open issues**: 1,890 · **Contributors**: 144
+- **Stars**: 64,560 · **Forks**: 5,452 · **Open issues**: 1,890 · **Contributors**: 144
 
 ## Totals (cumulative)
 
@@ -64,4 +64,4 @@ Install metadata for get-shit-done lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:56:01Z._
