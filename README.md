@@ -14,6 +14,18 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 x install get-shit-done
 ```
 
+## Code insight
+
+Total: **199,491** lines of code across **1027** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 137,759 | 24,437 | 21,338 | 693 |
+| TypeScript | 53,952 | 8,211 | 8,454 | 303 |
+| Json | 6,926 | 0 | 1 | 19 |
+| Sh | 775 | 221 | 153 | 9 |
+| Svg | 79 | 14 | 13 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/gsd-build/get-shit-done>
@@ -26,7 +38,7 @@ x install get-shit-done
 
 ## Popularity
 
-- **Stars**: 64,564 · **Forks**: 5,453 · **Open issues**: 1,890 · **Contributors**: 144
+- **Stars**: 64,561 · **Forks**: 5,453 · **Open issues**: 1,890 · **Contributors**: 144
 
 ## Totals (cumulative)
 
@@ -36,21 +48,12 @@ x install get-shit-done
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 8 | 0 | 0 |
-| 360d | 2025-09-15 | 78 | 1202 | 0 | 1890 | 0 | 2557 |
-
-## Code size
-
-Total: **199,491** lines of code across **1027** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 137,759 | 24,437 | 21,338 | 693 |
-| TypeScript | 53,952 | 8,211 | 8,454 | 303 |
-| Json | 6,926 | 0 | 1 | 19 |
-| Sh | 775 | 221 | 153 | 9 |
-| Svg | 79 | 14 | 13 | 3 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 8 | 0 | 0 |
+| last180d | 2026-03-15 | 46 | 1060 | 0 | 1351 | 0 | 1498 |
+| 360d | 2025-09-16 | 78 | 1202 | 0 | 1890 | 0 | 2557 |
+| last720d | 2024-09-21 | 78 | 1202 | 0 | 1890 | 0 | 2928 |
 
 ## Improve this data
 
@@ -61,4 +64,4 @@ Install metadata for get-shit-done lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:08Z._
