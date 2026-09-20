@@ -6,7 +6,7 @@
 
 A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
-![get-shit-done](https://repo.x-cmd.io/get-shit-done.svg?lang=zh)
+[![x-cmd/install — get-shit-done Code Quality Monitoring Repo Card](https://repo.x-cmd.io/get-shit-done.svg?lang=zh)](https://x-cmd.com/install/get-shit-done)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install get-shit-done
 
 ## 流行度
 
-- **Star**: 64,514 · **Fork**: 5,451 · **开放 issue**: 1,890 · **贡献者**: 143
+- **Star**: 64,498 · **Fork**: 5,449 · **开放 issue**: 1,890 · **贡献者**: 143
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install get-shit-done
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 3 | 0 | 0 |
-| last180d | 2026-03-22 | 40 | 920 | 0 | 1265 | 0 | 1333 |
-| 360d | 2025-09-23 | 78 | 1202 | 0 | 1890 | 0 | 2557 |
-| last720d | 2024-09-28 | 78 | 1202 | 0 | 1890 | 0 | 2928 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 3 | 0 | 0 |
+| last180d | 2026-03-24 | 39 | 901 | 0 | 1253 | 0 | 1333 |
+| 360d | 2025-09-25 | 78 | 1202 | 0 | 1890 | 0 | 2557 |
+| last720d | 2024-09-30 | 78 | 1202 | 0 | 1890 | 0 | 2928 |
 
 ## 改进这些数据
 
@@ -64,4 +64,4 @@ get-shit-done 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:03:29Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:06:57Z._
