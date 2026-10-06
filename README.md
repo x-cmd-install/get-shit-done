@@ -38,22 +38,22 @@ Total: **199,491** lines of code across **1027** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 64,385 · **Forks**: 5,437 · **Open issues**: 1,890 · **Contributors**: 143
+- **Stars**: 64,370 · **Forks**: 5,433 · **Open issues**: 1,889 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1202 · **Open PRs**: 0 · **Closed issues**: 1890 · **Open issues**: 0 · **Commits**: 2928
+- **Releases**: 78 · **Merged PRs**: 1202 · **Open PRs**: 0 · **Closed issues**: 1889 · **Open issues**: 0 · **Commits**: 2928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 31 | 696 | 0 | 950 | 0 | 951 |
-| 360d | 2025-10-10 | 78 | 1202 | 0 | 1890 | 0 | 2557 |
-| last720d | 2024-10-15 | 78 | 1202 | 0 | 1890 | 0 | 2928 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 31 | 696 | 0 | 941 | 0 | 951 |
+| 360d | 2025-10-11 | 78 | 1202 | 0 | 1889 | 0 | 2557 |
+| last720d | 2024-10-16 | 78 | 1202 | 0 | 1889 | 0 | 2928 |
 
 ## Improve this data
 
@@ -64,4 +64,4 @@ Install metadata for get-shit-done lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:46:16Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:37:03Z._
